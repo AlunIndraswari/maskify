@@ -1,5 +1,3 @@
-# maskify
-
 # Maskify 
 
 **Maskify** adalah aplikasi web berbasis Flask yang dirancang untuk membantu pengguna melindungi informasi sensitif dalam teks. Aplikasi ini secara otomatis menyensor (masking) data pribadi dan kata-kata kasar untuk memastikan privasi dan kepatuhan konten sebelum dibagikan atau dipublikasikan.
